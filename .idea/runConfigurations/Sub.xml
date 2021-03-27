@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Sub" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="Sub" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="Sub" />
     <module name="A.1_sub" />
     <method v="2">
