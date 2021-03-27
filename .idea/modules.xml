@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/A.1_sub/A.1_sub.iml" filepath="$PROJECT_DIR$/A.1_sub/A.1_sub.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coderhub.sa.iml" filepath="$PROJECT_DIR$/.idea/coderhub.sa.iml" />
     </modules>
   </component>
