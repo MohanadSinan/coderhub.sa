@@ -17,17 +17,17 @@ public class InputType {
 
         System.out.println("number\t\t\t\tOutput\n---------------------------");
 
-        var value1 = "Hello everybody";
-        String R1 = inputType(value1);
-        System.out.println(value1 + "\t\t" + R1);
+        var value = "Hello everybody";
+        String R = inputType(value);
+        System.out.println(value + "\t\t" + R);
 
-        String value2 = "323";
-        String R2 = inputType(value2);
-        System.out.println(value2 + "\t\t\t\t\t" + R2);
+        value = "323";
+        R = inputType(value);
+        System.out.println(value + "\t\t\t\t\t" + R);
 
-        String value3 = "21.1";
-        String R3 = inputType(value3);
-        System.out.println(value3 + "\t\t\t\t" + R3);
+        value = "21.1";
+        R = inputType(value);
+        System.out.println(value + "\t\t\t\t" + R);
     }
 
 }

@@ -10,25 +10,25 @@ public class Num_elements {
     public static void main(String[] args) {
         System.out.println("array\t\t\t\t\t\t\tOutput\n---------------------------------------");
 
-        int[] array1 = new int[]{2 , 4 , 9 , 23 , 435};
-        int R1 = num_elements(array1);
-        System.out.println(Arrays.toString(array1) + "\t\t\t\t  " + R1);
+        int[] array = new int[]{2 , 4 , 9 , 23 , 435};
+        int R = num_elements(array);
+        System.out.println(Arrays.toString(array) + "\t\t\t\t  " + R);
 
-        int[] array2 = new int[]{32 , 44 , 9 , 3 , 8, 1};
-        int R2 = num_elements(array2);
-        System.out.println(Arrays.toString(array2) + "\t\t\t  " + R2);
+        array = new int[]{32 , 44 , 9 , 3 , 8, 1};
+        R = num_elements(array);
+        System.out.println(Arrays.toString(array) + "\t\t\t  " + R);
 
-        int[] array3 = new int[]{99 , 314 , 10, 11, 8 , 200 , 23};
-        int R3 = num_elements(array3);
-        System.out.println(Arrays.toString(array3) + "\t  " + R3);
+        array = new int[]{99 , 314 , 10, 11, 8 , 200 , 23};
+        R = num_elements(array);
+        System.out.println(Arrays.toString(array) + "\t  " + R);
 
-        int[] array4 = new int[]{72 , 86};
-        int R4 = num_elements(array4);
-        System.out.println(Arrays.toString(array4) + "\t\t\t\t\t\t  " + R4);
+        array = new int[]{72 , 86};
+        R = num_elements(array);
+        System.out.println(Arrays.toString(array) + "\t\t\t\t\t\t  " + R);
 
-        int[] array5 = new int[]{55 , 64 , 0 , 11 };
-        int R5 = num_elements(array5);
-        System.out.println(Arrays.toString(array5) + "\t\t\t\t\t  " + R5);
+        array = new int[]{55 , 64 , 0 , 11 };
+        R = num_elements(array);
+        System.out.println(Arrays.toString(array) + "\t\t\t\t\t  " + R);
     }
 
 }

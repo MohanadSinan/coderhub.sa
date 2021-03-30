@@ -19,15 +19,15 @@ public class DeleteElementInArray {
 
         System.out.println("arr\t\t\tindex\t\tOutput\n------------------------------");
 
-        int[] array1 = new int[]{2, 4, 88};
-        int index1 = 2;
-        int[] R1 = deleteElementInArray(array1, index1);
-        System.out.println(Arrays.toString(array1) + "\t  " + index1 + "\t\t\t" + Arrays.toString(R1));
+        int[] array = new int[]{2, 4, 88};
+        int index = 2;
+        int[] R = deleteElementInArray(array, index);
+        System.out.println(Arrays.toString(array) + "\t  " + index + "\t\t\t" + Arrays.toString(R));
 
-        int[] array2 = new int[]{-3, 4, 0};
-        int index2 = 0;
-        int[] R2 = deleteElementInArray(array2, index2);
-        System.out.println(Arrays.toString(array2) + "\t  " + index2 + "\t\t\t" + Arrays.toString(R2));
+        array = new int[]{-3, 4, 0};
+        index = 0;
+        R = deleteElementInArray(array, index);
+        System.out.println(Arrays.toString(array) + "\t  " + index + "\t\t\t" + Arrays.toString(R));
     }
 
 }
