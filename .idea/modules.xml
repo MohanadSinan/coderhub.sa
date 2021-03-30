@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java/A.10_InputType/A.10_InputType.iml" filepath="$PROJECT_DIR$/Java/A.10_InputType/A.10_InputType.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/A.11_LastElm/A.11_LastElm.iml" filepath="$PROJECT_DIR$/Java/A.11_LastElm/A.11_LastElm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/A.12_DeleteElementInArray/A.12_DeleteElementInArray.iml" filepath="$PROJECT_DIR$/Java/A.12_DeleteElementInArray/A.12_DeleteElementInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/A.1_Sub/A.1_Sub.iml" filepath="$PROJECT_DIR$/Java/A.1_Sub/A.1_Sub.iml" />
       <module fileurl="file://$PROJECT_DIR$/A.1_sub/A.1_sub.iml" filepath="$PROJECT_DIR$/A.1_sub/A.1_sub.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/A.2_ConcatNames/A.2_ConcatNames.iml" filepath="$PROJECT_DIR$/Java/A.2_ConcatNames/A.2_ConcatNames.iml" />
