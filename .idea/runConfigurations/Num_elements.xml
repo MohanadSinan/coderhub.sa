@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Num_elements" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Num_elements" />
+    <module name="A.7_Num_elements" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
