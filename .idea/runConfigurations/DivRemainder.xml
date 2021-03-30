@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DivRemainder" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="DivRemainder" />
+    <module name="A.3_DivRemainder" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
