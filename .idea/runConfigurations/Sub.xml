@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Sub" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="Sub" />
-    <module name="A.1_sub" />
+    <module name="A.1_Sub" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
