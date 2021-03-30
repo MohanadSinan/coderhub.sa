@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/A.5_Average/A.5_Average.iml" filepath="$PROJECT_DIR$/Java/A.5_Average/A.5_Average.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/A.6_IsSame/A.6_IsSame.iml" filepath="$PROJECT_DIR$/Java/A.6_IsSame/A.6_IsSame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/A.7_Num_elements/A.7_Num_elements.iml" filepath="$PROJECT_DIR$/Java/A.7_Num_elements/A.7_Num_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/A.8_CumulativeAddition/A.8_CumulativeAddition.iml" filepath="$PROJECT_DIR$/Java/A.8_CumulativeAddition/A.8_CumulativeAddition.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coderhub.sa.iml" filepath="$PROJECT_DIR$/.idea/coderhub.sa.iml" />
     </modules>
   </component>

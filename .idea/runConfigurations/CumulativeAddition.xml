@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CumulativeAddition" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CumulativeAddition" />
+    <module name="A.8_CumulativeAddition" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
