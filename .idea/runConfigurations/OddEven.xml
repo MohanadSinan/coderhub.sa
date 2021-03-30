@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OddEven" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="OddEven" />
+    <module name="A.9_OddEven" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
