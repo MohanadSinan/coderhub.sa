@@ -27,7 +27,7 @@
 
 ### اختر اللغة لمشاهدة حلول التحديات
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="zoom:50%;" />](Java/README.md)
+[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="zoom:50%;" />](Java/README.md)				[<img src="https://emilcraciun.net/content/images/2019/01/Csharp_Logo-2.png" alt="C#" style="zoom: 50%;" />](CS/README.md)
 
 
 
