@@ -177,11 +177,8 @@ public static double average(int[] array) {
 </div>
 
 ```CS
-public static String isSame(String name1, String name2) {
-        // write your code here
-        if (name1.equals(name2)) return "متشابهتين";
-        return "غير متشابهتين";
-    }
+
+
 ```
 
 <div dir="rtl">
@@ -236,11 +233,8 @@ public static int num_elements(int[] array) {
 </div>
 
 ```CS
-public static int[] cumulativeAddition(int[] array) {
-        // write your code here
-        int sum = Arrays.stream(array).sum();
-        return new int[]{sum, array.length};
-    }
+
+
 ```
 
 <div dir="rtl">
@@ -294,18 +288,8 @@ public static String oddEven(int number) {
 </div>
 
 ```CS
-public static String inputType(String value) {
-        // write your code here
-        if (value.matches("\\d+")) {
-            return "integer";
-        }
 
-        // checking for floating point numbers
-        else if (value.matches("\\d*[.]\\d+")) {
-            return  "double";
-        }
-        return "string";
-    }
+
 ```
 
 <div dir="rtl">
